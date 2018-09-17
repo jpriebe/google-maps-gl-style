@@ -45,7 +45,7 @@
     }
   },
   "sprite": "https://raw.githubusercontent.com/jpriebe/google-maps-gl-style/master/sprite",
-  "glyphs": "https://free.tilehosting.com/fonts/{fontstack}/{range}.pbf?key={key}"
+  "glyphs": "https://free.tilehosting.com/fonts/{fontstack}/{range}.pbf?key={key}",
   "layers": [
     {
       "id": "background",
