@@ -44,8 +44,8 @@
       "url": "https://free.tilehosting.com/data/v3.json?key={key}"
     }
   },
-  "sprite": "{styleJsonFolder}/sprite",
-  "glyphs": "{fontstack}/{range}.pbf",
+  "sprite": "https://raw.githubusercontent.com/jpriebe/google-maps-gl-style/master/sprite",
+  "glyphs": "https://free.tilehosting.com/fonts/{fontstack}/{range}.pbf?key={key}"
   "layers": [
     {
       "id": "background",
