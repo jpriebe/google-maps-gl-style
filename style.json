@@ -41,7 +41,7 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "mbtiles://{v3}"
+      "url": "https://free.tilehosting.com/data/v3.json?key={key}"
     }
   },
   "sprite": "{styleJsonFolder}/sprite",
